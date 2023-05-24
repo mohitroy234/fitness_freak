@@ -1,5 +1,11 @@
 # api_fetch
 
+## Demo Video
+
+https://github.com/mohitroy234/fitness_freak/assets/109425805/6d0bbd95-17ce-4502-9d3f-ba6dea1e898c
+
+
+
 A new Flutter project.
 
 ## Getting Started
